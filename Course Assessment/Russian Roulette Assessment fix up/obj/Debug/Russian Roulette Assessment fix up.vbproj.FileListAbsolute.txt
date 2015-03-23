@@ -1,0 +1,39 @@
+\\cochchfs\users\lw015\documents\visual studio 2013\Projects\Russian Roulette Assessment fix up\Russian Roulette Assessment fix up\bin\Debug\Russian Roulette Assessment fix up.exe.config
+\\cochchfs\users\lw015\documents\visual studio 2013\Projects\Russian Roulette Assessment fix up\Russian Roulette Assessment fix up\bin\Debug\Russian Roulette Assessment fix up.exe
+\\cochchfs\users\lw015\documents\visual studio 2013\Projects\Russian Roulette Assessment fix up\Russian Roulette Assessment fix up\bin\Debug\Russian Roulette Assessment fix up.pdb
+\\cochchfs\users\lw015\documents\visual studio 2013\Projects\Russian Roulette Assessment fix up\Russian Roulette Assessment fix up\bin\Debug\Russian Roulette Assessment fix up.xml
+\\cochchfs\users\lw015\documents\visual studio 2013\Projects\Russian Roulette Assessment fix up\Russian Roulette Assessment fix up\obj\Debug\Russian_Roulette_Assessment_fix_up.Form1.resources
+\\cochchfs\users\lw015\documents\visual studio 2013\Projects\Russian Roulette Assessment fix up\Russian Roulette Assessment fix up\obj\Debug\Russian_Roulette_Assessment_fix_up.Resources.resources
+\\cochchfs\users\lw015\documents\visual studio 2013\Projects\Russian Roulette Assessment fix up\Russian Roulette Assessment fix up\obj\Debug\Russian_Roulette_Assessment_fix_up.Pictures_sound.resources
+\\cochchfs\users\lw015\documents\visual studio 2013\Projects\Russian Roulette Assessment fix up\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.vbproj.GenerateResource.Cache
+\\cochchfs\users\lw015\documents\visual studio 2013\Projects\Russian Roulette Assessment fix up\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.exe
+\\cochchfs\users\lw015\documents\visual studio 2013\Projects\Russian Roulette Assessment fix up\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.xml
+\\cochchfs\users\lw015\documents\visual studio 2013\Projects\Russian Roulette Assessment fix up\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.pdb
+\\cochchfs\users\lw015\documents\visual studio 2013\Projects\Russian Roulette Assessment fix up\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.vbprojResolveAssemblyReference.cache
+F:\Course Assessment\Russian Roulette Assessment fix up\bin\Debug\Russian Roulette Assessment fix up.exe.config
+F:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.exe
+F:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.xml
+F:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.pdb
+F:\Course Assessment\Russian Roulette Assessment fix up\bin\Debug\Russian Roulette Assessment fix up.exe
+F:\Course Assessment\Russian Roulette Assessment fix up\bin\Debug\Russian Roulette Assessment fix up.pdb
+F:\Course Assessment\Russian Roulette Assessment fix up\bin\Debug\Russian Roulette Assessment fix up.xml
+F:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.vbprojResolveAssemblyReference.cache
+F:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian_Roulette_Assessment_fix_up.Form1.resources
+F:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian_Roulette_Assessment_fix_up.Resources.resources
+F:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian_Roulette_Assessment_fix_up.Pictures_sound.resources
+F:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.vbproj.GenerateResource.Cache
+F:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian_Roulette_Assessment_fix_up.new pictures.resources
+E:\Course Assessment\Russian Roulette Assessment fix up\bin\Debug\Russian Roulette Assessment fix up.exe.config
+E:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.exe
+E:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.xml
+E:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.pdb
+E:\Course Assessment\Russian Roulette Assessment fix up\bin\Debug\Russian Roulette Assessment fix up.exe
+E:\Course Assessment\Russian Roulette Assessment fix up\bin\Debug\Russian Roulette Assessment fix up.pdb
+E:\Course Assessment\Russian Roulette Assessment fix up\bin\Debug\Russian Roulette Assessment fix up.xml
+E:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.vbprojResolveAssemblyReference.cache
+E:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian_Roulette_Assessment_fix_up.Form1.resources
+E:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian_Roulette_Assessment_fix_up.Resources.resources
+E:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian_Roulette_Assessment_fix_up.Pictures_sound.resources
+E:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian_Roulette_Assessment_fix_up.new pictures.resources
+E:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian Roulette Assessment fix up.vbproj.GenerateResource.Cache
+E:\Course Assessment\Russian Roulette Assessment fix up\obj\Debug\Russian_Roulette_Assessment_fix_up.HelpBox.resources

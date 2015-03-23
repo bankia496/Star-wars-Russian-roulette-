@@ -1,0 +1,8 @@
+E:\Course Assessment\UnitTest2\bin\Debug\UnitTest2.dll
+E:\Course Assessment\UnitTest2\bin\Debug\UnitTest2.pdb
+E:\Course Assessment\UnitTest2\bin\Debug\UnitTest2.xml
+E:\Course Assessment\UnitTest2\obj\Debug\UnitTest2.Resources.resources
+E:\Course Assessment\UnitTest2\obj\Debug\UnitTest2.vbproj.GenerateResource.Cache
+E:\Course Assessment\UnitTest2\obj\Debug\UnitTest2.dll
+E:\Course Assessment\UnitTest2\obj\Debug\UnitTest2.xml
+E:\Course Assessment\UnitTest2\obj\Debug\UnitTest2.pdb

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Russian_Roulette_Assessment_fix_up.Form1">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQQAgRAFGAAoIASACCAIAAjAAQAAIwxBCAQEAAAAAA=</HashCode>
+      <FileName>Form1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Russian_Roulette_Assessment_fix_up.HelpBox">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAACAECAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HelpBox.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Russian_Roulette_Assessment_fix_up.My.MyApplication">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Russian_Roulette_Assessment_fix_up.My.MySettings">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound">
+    <Position X="10" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAIAAZACAQAoCAIIAABEAQAEQQECiAAAQgAQEQIAKQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Russian_Roulette_Assessment_fix_up.My.Resources.new_pictures">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgAAAQABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Russian_Roulette_Assessment_fix_up.My.MySettingsProperty">
+    <Position X="6.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Russian_Roulette_Assessment_fix_up.My.Resources.Resources">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

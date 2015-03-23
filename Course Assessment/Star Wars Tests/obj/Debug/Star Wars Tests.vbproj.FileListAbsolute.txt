@@ -1,0 +1,8 @@
+E:\Course Assessment\Star Wars Tests\obj\Debug\Star_Wars_Tests.Resources.resources
+E:\Course Assessment\Star Wars Tests\obj\Debug\Star Wars Tests.vbproj.GenerateResource.Cache
+E:\Course Assessment\Star Wars Tests\bin\Debug\Star Wars Tests.dll
+E:\Course Assessment\Star Wars Tests\bin\Debug\Star Wars Tests.pdb
+E:\Course Assessment\Star Wars Tests\bin\Debug\Star Wars Tests.xml
+E:\Course Assessment\Star Wars Tests\obj\Debug\Star Wars Tests.dll
+E:\Course Assessment\Star Wars Tests\obj\Debug\Star Wars Tests.xml
+E:\Course Assessment\Star Wars Tests\obj\Debug\Star Wars Tests.pdb

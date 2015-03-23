@@ -1,0 +1,182 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RussianRouletteAssessmentfixup
+</name>
+</assembly>
+<members>
+<member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound._107611">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound._25026_star_wars_jedi_duel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Anakin_tötet_Dooku">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.bg_tatooine_thumb">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.cod_4_13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Count_Dooku">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Darth_Maul">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Dooku_salute">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Dooku_sEnd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.DookuVersusAnakin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.EpisodeII_ObiWan2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Galen_Marek_clone_killed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.how_to_draw_a_lightsaber_1_000000001266_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Jedi_Master_versus_two_Sith">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Kenobi_Maul_clash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Lightsaber_Clash_SoundBible_com_203518049">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Lightsaber_Pulse_SoundBible_com_1806721286">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Lightsaber_Turn_Off_SoundBible_com_726724693">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Lightsaber_Turn_On_SoundBible_com_1637663395">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Lightsaber_Turn_On_SoundBible_com_647586083">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.LukeLightsaberConstruction">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Obiwan_Soresu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Qui_Gon_s_death">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Qui_Gon_s_death__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Star_Wars_Lightsaber_Workout_for_Weight_Loss_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.star_wars_picture_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Tyranus_lightsaber_l">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.VaderStabsMarek">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound.Windu_Angry">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.new_pictures.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.new_pictures.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.new_pictures.picture_box_left">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.new_pictures.Picture_box_middle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.new_pictures.picture_box_right">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Russian_Roulette_Assessment_fix_up.My.Resources.new_pictures">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Russian_Roulette_Assessment_fix_up.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Russian_Roulette_Assessment_fix_up.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

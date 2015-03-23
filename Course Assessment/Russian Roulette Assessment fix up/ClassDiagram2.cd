@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Russian_Roulette_Assessment_fix_up.Form1">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAgRABGAAoAAQACCAIAAiAAQAAIwxBCAQEAAAAAA=</HashCode>
+      <FileName>Form1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Russian_Roulette_Assessment_fix_up.Gameplay">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAABAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Gameplay.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Russian_Roulette_Assessment_fix_up.HelpBox" Collapsed="true">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAACAECAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HelpBox.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Russian_Roulette_Assessment_fix_up.My.MyApplication" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Russian_Roulette_Assessment_fix_up.My.MySettings" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Russian_Roulette_Assessment_fix_up.My.Resources.Pictures_sound" Collapsed="true">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAIAAZACAQAoCAIIAABEAQAEQQECiAAAQgAQEQIAKQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Russian_Roulette_Assessment_fix_up.My.Resources.new_pictures" Collapsed="true">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgAAAQABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Russian_Roulette_Assessment_fix_up.My.MySettingsProperty" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Russian_Roulette_Assessment_fix_up.My.Resources.Resources" Collapsed="true">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
